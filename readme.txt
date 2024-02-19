@@ -1,4 +1,4 @@
 welcome to git beg
 author:murari
 twitter:batimurari
-gmail
+gmail: urandurbatimurari@gmail.com
